@@ -1,3 +1,2 @@
 # LJM
-firstday
 test git
